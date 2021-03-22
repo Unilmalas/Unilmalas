@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Unilmalas
 - 👀 I’m interested in NLP, deep learning and Python
-- 🌱 I’m currently learning the ynthesizer Model
+- 🌱 I’m currently learning the synthesizer Model
 - 💞️ I’m looking to collaborate on fun procects in AI (time permitting)
 - 📫 Leave a comment, I'll get back to you
 
